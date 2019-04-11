@@ -1,4 +1,4 @@
-Dockerfile to run https://github.com/peterbe/minimalcss
+Dockerfile to run https://github.com/peterbe/minimalcss-server
 
 You can run it with the following command:
 
